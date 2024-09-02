@@ -114,13 +114,8 @@ print(classification_report(truth, prediction))
 
 
 #confusion matrix
-
-
-
-
-
-
-
-
-
+#kio use krty hain  
+# jab hum model ko train kr laity hy uske acuuracy ko check krny  iya use huta confsion matrix. 
+#false positive (most important) : model ne no bola hy or actual mei yes tha
+# example : cancer hy or model saying ni hy 
 
